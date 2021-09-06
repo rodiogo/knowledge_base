@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\jaime trovoada\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.linting.flake8Enabled": false
+}

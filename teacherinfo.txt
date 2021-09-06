@@ -1,0 +1,936 @@
+﻿Name:Guo Wei
+Professional Title:Professor
+Department:School of Computer Science and Technology
+Main courses:Computer Design and Testing, VLSI System Design, SoC Design Methodology and Implementation
+Email:weiguo@tju.edu.cn
+Research field:Processor Design, SoC Design, Applied Cryptography
+Personal Website:http://cic.tju.edu.cn/faculty/guowei/index.html
+Name:Guo DeKe
+Professional Title:Professor
+Department:College of Intelligence and Computing 
+Main courses:None
+Tutor type:Ph.D. supervisor
+Email:guodeke@gmail.com 
+Research field:Computer Science and Technology
+Research Interests:Computer Network, Distributed Computing, Network Security, Edge Computing, Data Center, Software-defined networking, Big Data, Mobile Computing. 
+Personal Website:http://www.greenorbs.org/people/liu/guodeke/tianjin/
+Name:Zhou XiaoBo 
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Computer Networks, Introduction to Computing Principles
+Tutor type:research supervisor
+Email:xiaobo.zhou@tju.edu.cn 
+Research field:Computer Networks and Communications
+Research Interests:Network Resource Management and Optimization, Future Internet, Cloud Computing, Mobile Edge Computing 
+Personal Website:http://cic.tju.edu.cn/faculty/xbzhou/index.html 
+Name:Zhao ZengHua
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Computer Networks
+Tutor type:Master Tutor
+Email:Zenghua@tju.edu.cn 
+Research field:Computer networking
+Research Interests:Mobile and pervasive computing, Indoor localization, underwater wireless networking, wireless network protocol and system design
+Personal Website:http://cic.tju.edu.cn/faculty/zenghua/index.html 
+Name:Zhang Peng
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Natural Language Processing, Discrete Mathematics, Introduction to Computing Principles
+Tutor type:Master Supervisor, Ph.D co-supervisor
+Email:pzhang@tju.edu.cn 
+Research field:Natural Language Processing, Machine Learning, Information Retrieval 
+Research Interests:Question Answering, Language Modeling, Quantum Language Modeling 
+Personal Website:http://cic.tju.edu.cn/faculty/zhangpeng/index.html
+Name:Zhang BingYi
+Professional Title:Associate Professor
+Department:School of Compute 
+Main courses:Basics of Computer Engineering Computer Control Technology 
+Tutor type:Master Student Supervisor
+Email:byzhang@tju.edu.cn 
+Research field:Big data analysis
+Research Interests:Big data of Internet of things 
+Personal Website:None
+Name:Yu Ce 
+Professional Title:Associate Professor 
+Department:Computer Science and Technology 
+Main courses:Parallel Computing, High Performance Computing and Applications 
+Tutor type:Ph.d/M.S
+Email:yuce@tju.edu.cn 
+Research field:High Performance Computing, Big Data, Astro-Informatics
+Research Interests:Scientific Computing, Parallel Programming Models, Big Data Storage and Analysis, Astronomical Data Processing, Time Domain Astronomy 
+Personal Website:http://cic.tju.edu.cn/faculty/yuce/index.html 
+Name:Wei LeYi 
+Professional Title:Assistant Professor
+Department:School of Computer Science and Technology 
+Main courses:None
+Tutor type:Master Supervisor
+Email:weileyi@tju.edu.cn 
+Research field:Machine Learning, Artificial Intelligence, Bioinformatics 
+Research Interests:Bioinformatics 
+Personal Website:http://lab.malab.cn/~wly/
+Name:Wei JiZeng
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Computer Architecture, Computer Organization 
+Tutor type:Master Supervisor
+Email:weijizeng@tju.edu.cn 
+Research field:Computer Architecture
+Research Interests:Power-efficient Heterogeneous Architecture, System on-Chip, AI Processor 
+Personal Website:None
+Name:Wang XiuJin
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Assembly Language
+Tutor type:None
+Email:wxiujin@tju.edu.cn
+Research field:None
+Research Interests:None
+Personal Website:http://cic.tju.edu.cn/faculty/wangxiujin/wangxiujin.htm
+Name:Wang XiaoFei 
+Professional Title:Professor
+Department:Computer Engineering 
+Main courses:computer network, big data analysis theory and algorithm, big data technology and application
+Tutor type:master supervisor, Ph.D. supervisor
+Email:xiaofeiwang@tju.edu.cn 
+Research field:computer network
+Research Interests:future mobile network (5G), network big data, edge computing, smart city 
+Personal Website:http://cic.tju.edu.cn/faculty/wangxiaofei/index.html 
+Name:Wang Song 
+Professional Title:Professor
+Department:Computer Science 
+Main courses:Computer Vision
+Tutor type:MS and PhD advisor
+Email:songwang@tju.edu.cn 
+Research field:Computer Vision
+Research Interests:Computer Vision, Image Processing, Machine Learning 
+Personal Website:None
+Name:Wang JianRong
+Professional Title:Associate Professor
+Department:School of Computer Science 
+Main courses:Programming principleComputer Organization
+Tutor type:Master Instructor
+Email:wjr@tju.edu.cn 
+Research field:Artificial Intelligence, Human-Computer Interaction, Data Mining
+Research Interests:Multimodal speech recognitionRobotic intelligent interactionSpeaker identificationHigh performance blockchain technologyIndustrial big data 
+Personal Website:http://cic.tju.edu.cn/faculty/wjr/index.html
+Name:Wang Bo
+Professional Title:Association Professor
+Department:Computer Science and Technology 
+Main courses:Social Computing, Discrete Mathematics
+Tutor type:Master
+Email:bo_wang@tju.edu.cn 
+Research field:Social Computing, Natural Language Processing 
+Research Interests:User Modeling, Social Relationship and Psychology Modeling 
+Personal Website:http://cic.tju.edu.cn/faculty/wangbo/index.htm
+Name:Tang JiJun
+Professional Title:Professor
+Department:Computer Science 
+Main courses:Bioinformatics
+Tutor type:Master and Ph.D. Advisor
+Email:tangjijun@tju.edu.cn 
+Research field:Computational Biology and Bioinformatics
+Research Interests:Algorithm, Statistics and Machine learning for Genomics and medical 
+Personal Website:None
+Name:Tang ShanJiang
+Professional Title:Assist Professor
+Department:School of Computer Science & Technology 
+Main courses:Parallel Computing
+Tutor type:Master Supervisor
+Email:tashj@tju.edu.cn 
+Research field:Cloud Computing, High Performance Computing, Big Data, AI 
+Research Interests:Resource Management and Job Scheduling, Peformance Optimization for Deep Learning Application, Big data processing and analysis, algorithm parallelism 
+Personal Website:http://cic.tju.edu.cn/faculty/tangshanjiang/index.html
+Name:Sun MeiJun
+Professional Title:Associate Professor
+Department:School of Computer Science 
+Main courses:Operating System
+Tutor type:Director of Master Students
+Email:sunmeijun@tju.edu.cn 
+Research field:Computer Vision, Machine Learning, Computer Graphics
+Research Interests:Video Saliency Analysis, Hyperspectral Imaging, Intelligent Medical Imaging, Non-Photorealistic Rendering 
+Personal Website:http://www.escience.cn/people/sunmeijun/index.html 
+Name:Shi GaoTao
+Professional Title:Associate Prof
+Department:Computer 
+Main courses:Data Communication, Hot Topic in Computer Networks.
+Tutor type:master supervisor
+Email:shgt@tju.edu.cn 
+Research field:Computer Networks
+Research Interests:Wireless Networks, IoT and its Security 
+Personal Website:http://cic.tju.edu.cn/faculty/gaotao/index.htm
+Name:Rao GuoZheng
+Professional Title:Associate Professor
+Department:Department of Computer and Information Technology, School of Computer Science and Technology, College of Intelligence and Computing 
+Main courses:Software Engineering
+Tutor type:Master Advisor
+Email:rgz@tju.edu.cn 
+Research field:Data Science, Health Informatics, Knowledge Graph 
+Research Interests:Big data processing Selected Projects:1) 2016/01-2017/06, Reliability Test and Big Data Analysis of the Mobile Culture Public Service Platform. Fund from an Enterprise, PI.2) 2014/01-2017/12, Research on Key Technology for User Intent based Semantic Big Data Processing. National Natur Biomedical information processing.1) 2018/01-2019/12 Research on the transformation and reuse of large-scale medical semantic association data Software Engineering Selected Projects:1) 2015/10-2016/08, Research on Process Reliability Modeling and Reliability Evaluation Method. Fund from an Enterprise, PI.2) 2014/11-2014/12, Research on Reliability Evaluation Method of Performance Degradation. Fund from an Enterprise, PI. 
+Personal Website:http://cic.tju.edu.cn/faculty/rgz/index.html
+Name:Qu Ri
+Professional Title:Professor
+Department:Computer Science and Technology 
+Main courses:Discrete Mathematics
+Tutor type:Ph.D. Supervisor
+Email:baoyanru@tju.edu.cn 
+Research field:Quantum ComputingQuantum Information Research Interests:Quantum correlationsQuantum algorithms 
+Personal Website:http://cic.tju.edu.cn/faculty/qr/index.htm 
+Name:Luo Tao
+Professional Title:associate professor
+Department:School of Computer Science and Technology
+Main courses:Circuit and electronic technology Computer Foundation of College students
+Tutor type:Master tutor
+Email:luo_tao@tju.edu.cn 
+Research field:image sensing and computing, computer vision, SoC design
+Research Interests:image sensing and computing, computer vision, SoC design 
+Personal Website:http://cic.tju.edu.cn/faculty/luotao/index.html 
+Name:Liu ShiGuang 
+Professional Title:Professor
+Department:School of Computer Science and Technology 
+Main courses:Computer Graphics
+Tutor type:Ph.D Supervisor
+Email:lsg@tju.edu.cn 
+Research field:Computer Graphics, Image and Vision Computing
+Research Interests:Computer Graphics, Animation Image/video processing, Virtual Reality, Computer Games 
+Personal Website:http://cic.tju.edu.cn/faculty/lsg/Index.htm 
+Name:Liu Jiang
+Professional Title:Associate Professor
+Department:Computer Science and Technology 
+Main courses:Geographic Information System Design Fundamentals of College Computer 
+Tutor type:None
+Email:jiangliu@126.com 
+Research field:Computer Application
+Research Interests:Management Information Systems Data Mining
+Personal Website:http://cic.tju.edu.cn/faculty/liujiang/liujiang.htm
+Name:Liu ChunFeng
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Algorithm Design and AnalysisNumerical AnalysisC Programming Language
+Tutor type:Supervisor of Master
+Email:cfliu@tju.edu.cn 
+Research field:Wireless communication and networks;Vehicular ad hoc networks;Underwater sensor networksResearch Interests:Mobility modeling;Network topology control and optimization;Big data analysis;Network performance analysis and evaluation 
+Personal Website:http://cs.tju.edu.cn/faculty/cfliu/ 
+Name:Liao ShiZhong 
+Professional Title:Professor
+Department:School of Computer Science and Technology 
+Main courses:Artificial Intelligence, Machine Learning, The Theory of Computation, Selected Topics in Computing Sciences
+Tutor type:Master, Doctor
+Email:szliao@tju.edu.cn 
+Research field:Machine Learning, Artificial Intelligence, Theoretical Computer Science
+Research Interests:Large-scale Machine Learning, Machine Learning Theory, Model Selection, Intelligent Information Processing, Stochastic Algorithms 
+Personal Website:http://cic.tju.edu.cn/faculty/szliao/index.html
+Name:Li Kun
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Image Processing, Digital Signal Processing, Digital Media Technology
+Tutor type:Doctoral supervisor; Master supervisor
+Email:lik@tju.edu.cn 
+Research field:Computer vision, computer graphics, artificial intelligence, multimedia processing
+Research Interests:3D vision, 3D reconstruction, motion capture, image processing 
+Personal Website:http://cic.tju.edu.cn/faculty/likun/index.html
+Name:Li KeQiu
+Professional Title:Professor
+Department:School of Computer Science and Technology 
+Main courses:Introduction to Computer System
+Tutor type:doctoral supervisor
+Email:keqiu@tju.edu.cn 
+Research field:Computer Networks and Communications
+Research Interests:Future Internet, Cloud Computing, Datacenter Networks, Internet of Things, Mobile Computing 
+Personal Website:http://cs.tju.edu.cn/faculty/likeqiu/keqiu.html
+Name:Jin Di
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Internet of Things, E-commerce
+Tutor type:PhD Supervisor
+Email:jindi@tju.edu.cn 
+Research field:Social network analysis, artificial intelligenceResearch Interests:Community detection, network embedding, topic modelling 
+Personal Website:http://cic.tju.edu.cn/faculty/jindi/index.html 
+Name:Hou YueXian
+Professional Title:Professor
+Department:School of Computer Science and Technology 
+Main courses:Intelligent System Design, Natural Language Process and Information Retrieval
+Tutor type:Doctoral Supervisor and Master Supervisor 
+Email:yxhou@tju.edu.cn 
+Research field:Artificial Intelligence
+Research Interests:Quantum Artificial Intelligence,Machine Learning, Natural Language Process and Information Retrieval 
+Personal Website:http://cic.tju.edu.cn/info/1069/1075.htm
+Name:He DongXiao
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:Internet of things, Data structure 
+Tutor type:MS Supervisor
+Email:hedongxiao@tju.edu.cn 
+Research field:Complex networks, Machine learning
+Research Interests:Community detection, Graphical models 
+Personal Website:http://cic.tju.edu.cn/faculty/hedongxiao/index.htm 
+Name:Du PuFeng 
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology 
+Main courses:C++ Programming and Algorithm Basics; Python Programming and Applications
+Tutor type:Master
+Email:pdu@tju.edu.cn 
+Research field:Machine Learning, Pattern Recognition 
+Research Interests:Machine Learning, Pattern Recognition applications, omics big data and Bioinformatics 
+Personal Website:https://www.pufengdu.org
+Name:Chen ShiZhan 
+Professional Title:Associate Professor
+Department:School of Computer Science and Technology
+Main courses:Database Principles Software Architecture
+Tutor type:Doctoral supervisor 
+Email:shizhan@tju.edu.cn
+Research field:Service Computing 
+Research Interests:Service-Oriented Computing Mining and Understanding Software ecosystem
+Personal Website:http://cic.tju.edu.cn/faculty/csz/index.html
+Name:Chen RenHai 
+Professional Title:Lecturer/Assistant Professor 
+Department:College of Intelligence and Computing 
+Main courses:None
+Tutor type:Master Supervisor
+Email:renhai.chen@tju.edu.cn 
+Research field:Computer Architecture, Embedded Systems, Big Data, Artificial Intelligence 
+Research Interests:Storage Systems, Large-Scale Graph Computation, AI Accelerator 
+Personal Website:None
+Name:Che Ming 
+Professional Title:Associate professor
+Department:Computer Engineering
+Main courses:Embedded system designEmbedded system design Curriculum practice
+Tutor type:Master's tutor
+Email:cheming@tju.edu.cn 
+Research field:Computer science and technology 
+Research Interests:Computer application & embedded system 
+Personal Website:http://cic.tju.edu.cn/faculty/cheming/ 
+Name:Bao YanRu
+Professional Title:Lecturer
+Department:Computer Science and Technology
+Main courses:Discrete MathematicsComputer Systems Architecture
+Tutor type:None
+Email:baoyanru@tju.edu.cn
+Research field:Quantum ComputingQuantum Information
+Research Interests:Quantum correlationsQuantum algorithms
+Personal Website:None
+Name:Han Dong 
+Title:Associate Professor Department of Visual ArtsLecturer 
+Main courses:HCI Design, Introduction to Digital media, VFX, Creative thinkingSupervisor 
+Tutor type:Master's Supervisor
+Email:379201586@qq.com
+Research field:Digital Contents
+Research Interests:Museum Digital Display, VR&AR Contents, 3D Reconstruction of Ancient architecture
+Personal website:None
+Name:Zhao TianJiao
+Professional Title:lecture 
+Department:School of computer software, visual art department
+Main courses:Appreciation of Classic Works of Animation user experience design
+Tutor type:Teaching and research
+Email:zhaotianjiao@tju.edu.cn 
+Research field:design
+Research Interests:user experience design product creative designPersonal 
+Website:http://cic.tju.edu.cn/faculty/tjzhao/index.html
+Name:Zhao LaiPing
+Professional Title:Associate Professor
+Department:College of Intelligence and ComputingMain 
+Courses:Cloud Computing
+Tutor type:research supervisor
+Email:laiping@tju.edu.cn 
+Research field:Computing System
+Research Interests:Data Center, Cloud Computing, Software Defined Networking, AIopsPersonal 
+Website:http://clouduv.cn/
+Name:Zhao Jing
+Professional Title:Lecturer
+Department:Department of Visual Arts
+Main courses:1. Scene Design 2. Application of Photography and Camera Technology 3. Creation of Stop-motion Animation
+Tutor type:Supervisor for Undergraduates
+Email:zhaojingliz@163.com 
+Research field:Animation Visual Arts Landscape Desig
+Research Interests:Theory and Creation of Stop-motion Animation Experimental Animation Visual Arts Design Digital LandscapePersonal 
+Website:None
+Name:Zhang YiKui 
+Professional Title:Associate Professor 
+Department:Software Engineering
+Main courses:1.Undergraduate 2.Computer OrganizationSoftware Testing C# Language and .Net FrameworkSoftware Design 2 Unified Modeling Language[2]Graduate:Advanced Software EngineeringSensor and Sensing Technology Object Orientated Analysis and Design
+Tutor type:MasterEmail:zhangyk@@tju.edu.cn 
+Research field:Embedded system, software engineering
+Research Interests:mobile computing automobile electronics hardware and software co-design IOT applicationAIdeep learning application on edge computing
+Personal Website:None
+Name:Zhang Yi 
+Professional Title:Associate Professor 
+Department:Software Engineering
+Main courses:C++ object-oriented programmingdata structure
+Tutor type:Master's Supervisor
+Email:yizhang@tju.edu.cn 
+Research field:Visualization and Visual Analytics Data Mining and Analysis
+Research Interests:Researches on Algorithms and System Based on VisualizationData Mining and Artificial Intelligence
+Personal Website:None
+Name:Zhang YaPing 
+Professional Title:associate professor 
+Department:Software Engineering
+Main courses:Computer NetworkingInformation Security 
+Tutor type:research supervisor
+Email:zhangyaping@tju.edu.cn 
+Research field:Information Security
+Research Interests:Computer Forensicsnetwork securityPersonal Website:
+Name:Zhang Mu
+Professional Title:Lecture 
+Department:School of Computer Software
+Main courses:department of Visual Art
+Tutor type:Undergraduate teaching
+Email:sya@tju.edu.cn 
+Research field:None
+Research Interests:Intelligent interaction design and creation, Aesthetic education of Interdisciplinary research, VR/AR animation research
+Personal Website:None
+Name:Zhang JiaWan
+Professional Title:Professor 
+Department:School of Computer Software
+Main courses:Computer Graphics, Visualization and Visual Analytics, Image Processing
+Tutor type:PhD Student SupervisorEmail:jwzhang@tju.edu.cn 
+Research field:Visual Computing
+Research Interests:Computer Graphics, Visualization and Visual Analytics, Computer Vision
+Personal Website:http://cic.tju.edu.cn/faculty/jwzhang/index.html
+Name:Zhang ChaoKun 
+Professional Title:Associate Professor 
+Department:Department of Software Engineering
+Main courses:Computer Networks, Data Structure
+Tutor type:Master Supervisor
+Email:zhangchaokun@tju.edu.cn 
+Research field:Computer Networking
+Research Interests:Next Generation Internet, Cloud ComputingPersonal
+Website:http://cic.tju.edu.cn/info/1188/2268.htm
+Name:Ying Xiang 
+Professional Title:Associate Professor 
+Department:Software EngineeringMain courses:C/C++ Programming
+Tutor type:research supervisor
+Email:xiang.ying@tju.edu.cn 
+Research field:computer graphics, blockchain
+Research Interests:computer graphics, blockchain
+Personal Website:None
+Name:Xue Xiao
+Professional Title:Professor 
+Department:Software Engineering
+Main courses:Software Component Technology, Software Project Management, Software Engineering
+Tutor type:Master Supervisor
+Email:jzxuexiao@tju.edu.cn 
+Research field:Software Engineering
+Research Interests:Enterprise Intelligence, Service Computing, Complex Network
+Personal Website:http://cic.tju.edu.cn/faculty/xuexiao/index.html
+Name:Xu Chao 
+Professional Title:Associate Professor 
+Department:School of Computer Software
+Main courses:Software Engineering 2
+Tutor type:Master Supervisor
+Email:xuchao@tju.edu.cn 
+Research field:Affective Computing, UAV Remote Sensing 
+Research Interests:Computer Vision and HCI
+Personal Website:http://chaoxu.org/
+Name:Xie ZongXia
+Professional Title:Associate Professor 
+Department:Software Engineering
+Main courses:Data Warehouse and Data Mining
+Tutor type:Master Supervisor
+Email:caddiexie@hotmail.com 
+Research field:Artificial IntelligenceMachine LearningData Mining
+Research Interests:Deep LearningModeling for uncertain data
+Personal Website:
+Name:Weng ChongMing
+Professional Title:Associate Professor 
+Department:School of Computer Software
+Main courses:The Introduction of Internet of Things, The Introduction of Virtual Reality
+Tutor type:Doctoral and Master supervisor
+Email:chungming.own@tju.edu.cn 
+Research field:Computer Netowrk, Computer Vision
+Research Interests:Indoor Positioning, Augmented Reality, Deep Learning
+Personal Website:http://39.106.27.58/cmown.html
+Name:Wei JianGuo 
+Professional Title:Professor 
+Department:software engineering
+Main courses:Artificial IntelligenceNew Tech Trend and Industry
+Tutor type:Ph.D Supervisor
+Email:jianguo@tju.edu.cn 
+Research field:HCIBig Data
+Research Interests:Speech recognition,Speaker Indentification, Medical Imagie Analysis
+Personal Website:None
+Name:Wang Zan
+Professional Title:Associate Professor 
+Department:Department of Software Engineering
+Main courses:Software Testing Java Advanced Java Programming
+Tutor type:Master Supervisor
+Email:wangzan@tju.edu.cn 
+Research field:Program Analysis Software TestingNatural Language Processing 
+Research Interests:Concurrency Program AnalysisAutomatic Driving TestSoftware Fault Localization Sentiment Analysis
+Personal Website:None
+Name:Wang Li
+Professional Title:lecturer 
+Department:Software engineering
+Main courses:Computer Organization Signals and systems
+Tutor type:master's supervisor
+Email:wangli@tju.edu.cn
+Research field:Intelligent manufacturing and intelligent transportation
+Research Interests:Internet of things, big data analysis, standardization
+Personal Website:None
+Name:Wan Liang
+Professional Title:Professor 
+Department:College of Computer Software
+Main courses:Introduction to Computer Graphics
+Tutor type:PhD Supervisor
+Email:lwan@tju.edu.cn 
+Research field:Image Processing and Computer Graphics
+Research Interests:3D reconstruction, Panoramic image processing, Object tracking
+Personal Website:http://cic.tju.edu.cn/faculty/lwan/index.html
+Name:Tao WenYuan
+Professional Title:professor
+Department:None
+Main courses:General Introduction to Virtual Reality, Software Engineering Training
+Tutor type:None
+Email:taowenyuan@tju.edu.cn 
+Research field:Virtual Reality, Digital Media Technology, Internet of Things 
+Research Interests:1. The virtual role control and intelligent planning technology for video animation 2. The Intelligent modeling and data automatic analysis on VR 3. The Intelligent traffic dispatch and path planning based on Big Data
+Personal Website:None
+Name:Sun Qian
+Professional Title:associate professor 
+Department:School of Computer Software, College of Intelligence and Computing 
+Main courses:Programming Principle
+Tutor type:Postgraduate tutor
+Email:qian.sun@tju.edu.cn 
+Research field:Computer Graphics, Human Computer Interaction (HCI), Data Visualization, AR/VR, Deep Learning 
+Research Interests:Computer Graphics, Human Computer Interaction (HCI), Data Visualization, AR/VR, Deep Learning
+Personal Website:https://sites.google.com/site/zhujianzhai/home
+Name:Sun Han
+Professional Title:Lecturer 
+Department:Department of Visual Arts
+Main courses:Animation TechniquesStop-motion Animation creation Landscape Sketching
+Tutor type:Master's supervisor
+Email:371052213@qq.com
+Research field:AnimationOil Painting
+Research Interests:Cultural heritage protection
+Personal Website:None
+Name:Su Ran
+Professional Title:Associate professor 
+Department:Software engineering
+Main courses:discrete mathematics
+Tutor type:master supervisor
+Email:ran.su@tju.edu.cn 
+Research field:computer applications
+Research Interests:biomedical image analysis bioinformatics
+Personal Website:http://www.escience.cn/people/suran/index.html
+Name:Qu WenYu
+Professional Title:Professor 
+Department:Department of Software Engineering
+Main courses:Professional introduction, Computer professional English, Numerical calculation method, Numerical approximation, Network computing , High-performance computing
+Tutor type:PhD Supervisor
+Email:wenyu.qu@tju.edu.cn 
+Research field:Network and Cloud Computing
+Research Interests:Mobile Agent Technology, Information retrieval, Cloud Computing, Data Center Network
+Personal Website:http://cic.tju.edu.cn/faculty/wyqu/index.html
+Name:Peng ZhiJun
+Professional Title:associate professor 
+Department:Visual Art Department
+Main courses:Introduction to ArtIntroduction to AnimationLanguage of FilmScriptwritting for Animation
+Tutor type:None
+Email:pengpeng1696@163.com 
+Research field:Animation Theory
+Research Interests:Aesthetics of AnimationHistory of Animation
+Personal Website:None
+Name:Pan Gang
+Professional Title:Associate Professor 
+Department:Software Engineering
+Main courses:Application and development of mobile, Introduction to Natural Language Processing 
+Tutor type:Masterâs supervisor
+Email:pangang@tju.edu.cn 
+Research field:Computer vision, image processing, machine learning 
+Research Interests:Image synthesis, objection detection, digital culture heritage protection
+Personal Website:http://cic.tju.edu.cn/faculty/gpan/index.html
+Name:Niu ZhiBin 
+Professional Title:Lecturer 
+Department:software engineering
+Main courses:Web development Big data analysis
+Tutor type:Master's tutor
+Email:zniu@tju.edu.cn 
+Research field:Data Visualization and Visual Analysis, Computer-Aided Design 
+Research Interests:Data-driven visual analysis of financial risk management, feature recognition, etc
+Personal Website:http://cic.tju.edu.cn/faculty/zbniu/index.html 
+Name:Meng ZhaoPeng
+Professional Title:Professor 
+Department:Software Engineering
+Main courses:Computer Network Research
+Tutor type:Ph.D Supervisor
+Email:mengzp@tju.edu.cn 
+Research field:IoT Software and System, Big Data Analysis 
+Research Interests:IoT Software and System, Big Data Analysis
+Personal Website:None
+Name:Lv XuKang 
+Professional Title:Lecture 
+Department:Software Engineer
+Main courses:An Introduction to Frontier Technologies in Computer Science
+Tutor type:Master Supervisor
+Email:lvxukang@tju.edu.cn 
+Research field:Big Data, Cloud Computing, High-speed Networking
+Research Interests:High Speed Big Data Transport, SDN, Distributed Storage System
+Personal Website:None
+Name:Lu WenHuan
+Professional Title:Associate Professor 
+Department:Department of Software Engineering
+Main courses:Formal methods
+Tutor type:Doctoral Supervisor 
+Email:wenhuan@tju.edu.cn 
+Research field:Intelligent speech communication; Knowledge Engineering
+Research Interests:Speech security; Personalized speech analysis; Knowledge/Ontology Engineerin
+Personal Website:http://scs.tju.edu.cn/~whlu/ 
+Name:Liu Shuang
+Professional Title:Associate Professor 
+Department:School of Computer Software
+Main courses:Compiling Theory Software Testing
+Tutor type:Master Supervisor 
+Email:shuang.liu@tju.edu.cn 
+Research field:Software Testing Privacy Protection Natural Language Processing Block Chain
+Research Interests:Testing and verification of machine learning algorithms Automatic analysis and understanding of privacy policies Automated code clone detection Concurrency bug localization and fixing Consensus mechanisms in block chain
+Personal Website:http://www.escience.cn/people/LiuShuangcs/index.html
+Name:Liu ShuQing
+Professional Title:Assistant Professor 
+Department:Computer Software
+Main courses:Engineering Psychology, Design Psychology and User Experience
+Tutor type:Master Supervisor
+Email:liusq@tju.edu.cn 
+Research field:Room 214, Building 55, Peiyang Park Campus, Tianjin University 
+Research Interests:Humanâcomputer Interaction, Design Psychology, Cultural Ergonomics
+Personal Website:None
+Name:Li YouMeng
+Professional Title:Associate Professor 
+Department:Software Engineering
+Main courses:Digital Logic Circuit, Computer Organization
+Tutor type:Master's Supervisor
+Email:liyoumeng@tju.edu.cn 
+Research field:Embedded System, Real-Time System, IOT
+Research Interests:Intelligent Mine, Intelligent Agriculture, Environmental protection equipment and software
+Personal Website:http://liym.tj-ss.cn/
+Name:Li Xing
+Professional Title:Associate professor 
+Department:Visual Arts Department
+Main courses:Animated short film creation,Comprehensive painting techniques,Landscape painting, Character design
+Tutor type:Guidance
+Email:Lxty7399@163.com 
+Research field:Contemporary art and theory,Digital art and theory
+Research Interests:Animation creation and theoretical research,Oil painting creation and theoretical research,Ddigital art A large number of works of art have participated in domestic and foreign exhibitions and won a large number of awards. A large number of works are collected by art institutions and Tibetans. Presided over participation in national, provincial and ministerial scientific research projects. A large number of papers and works are published in national art core journals and various art publications.
+Personal Website:None
+Name:Li Liang
+Professional Title:Lecture 
+Department:School of Computer Software
+Main courses:Image processing, Computer Vision
+Tutor type:Master Supervisor
+Email:liangli@tju.edu.cn 
+Research field:Computer Vision, Pattern recognition
+Research Interests:Image restoration, image segmentation, object detection
+Personal Website:http://toughlife.github.io
+Name:Li Jie
+Professional Title:Assistant Professor 
+Department:Software Engineering 
+Main courses:Database, Machine Learning for Big Data Analysis
+Tutor type:Master Supervisor
+Email:jie.li@tju.edu.cn 
+Research field:Information Visualization& Visual Analytics 
+Research Interests:Visual analytics on spatiotemporal data, specifically on Social media, public security, financial data, environment science, etc
+Personal Website:http://geova.cn/jieli/
+Name:Li HuiBin
+Professional Title:assistant research fellow 
+Department:Software Academy
+Main courses:None
+Tutor type:None
+Email:lihuibin17@163.com
+Research field:Information Technology of Conservation and Promotion of Cultur
+Research Interests:Knowledge Graph Construction and Application, Information Visualization and Visual Analysis
+Personal Website:None
+Name:Li Gang
+Professional Title:Lecturer 
+Department:Software Engineering
+Main courses:Operating Systems 
+Tutor type:None
+Email:ligang@tju.edu.cn 
+Research field:Software Engineering 
+Research Interests:Software EngineeringOperating Systems
+Personal Website:http://www.ligang.name 
+Name:Hao JianYe
+Professional Title:Associate Professor 
+Department:Software Engineering
+Main courses:Artificial intelligence
+Tutor type:PhD advisor 
+Email:jianye.hao@tju.edu.cn 
+Research field:Artificial intelligence
+Research Interests:Reinforcement Learning, Multiagent Systems
+Personal Website:http://www.escience.cn/people/jianye/index.html 
+Name:Guo XiaoJie 
+Professional Title:Associate Professor with Tenure 
+Department:Computer Software
+Main courses:Digital Image Processing/Computer Vision 
+Tutor type:Ph.D. Supervisor
+Email:xj.max.guo@gmail.com 
+Research field:Computer Vision, Pattern Recognition, Machine Learning 
+Research Interests:None
+Personal Website:https://sites.google.com/view/xjguo
+Name:Feng ZhiYong
+Professional Title:Professor 
+Department:Department of Software Engineering
+Main courses:Software Engineering Artificial Intelligence Numerical Analysis, etc.
+Tutor type:Supervisor for Ph. D Student
+Email:zyfeng@tju.edu.cn 
+Research field:Software Engineering Artificial Intelligence,
+Research Interests:Service computing, knowledge engineering computer cognition
+Personal Website:http://cic.tju.edu.cn/faculty/zyfeng/index.html 
+Name:Chen SiQi 
+Professional Title:Associate Professor 
+Department:Software Engineering
+Main courses:Algorithms for Big data Multi-agent systemsInformation Security
+Tutor type:Master Supervisor
+Email:siqi.chen09@gmail.com 
+Research field:Artificial intelligence
+Research Interests:Multi-agent systemsautomated negotiationintelligent human-agent interaction
+Personal Website:https://sites.google.com/site/siqichen09/home
+Name:Chen JinYan
+Professional Title:associate professor 
+Department:software engineering
+Main courses:Java ProgrammingWEB development
+Tutor type:Master Instructor
+Email:chenjinyan@tju.edu.cn 
+Research field:Big data analysisComputer vision
+Research Interests:Big data analysisComputer vision
+Personal Website:None
+Name:Bi ChongKe
+Professional Title:Associate Professor 
+Department:School of Computer Software, College of Intelligence and Computing 
+Main courses:Visual Languages and Information Visualization 
+Tutor type:doctoral supervisor
+Email:bichongke@tju.edu.cn 
+Research field:Scientific Visualization High Performance Computing
+Research Interests:Scientific Visualization High Performance Computing
+Personal Website:http://www.bichongke.com
+Name:Xu GuangQuan 
+Professional Title:Associate Professor 
+Department:School of Network Security
+Main courses:Computer Security
+Tutor type:research supervisor
+Email:Losin@tju.edu.cn 
+Research field:Network and Information Security
+Research Interests:Mobile Security IoT Security AI and Security, Trust ManagementPersonal 
+Website:http://cic.tju.edu.cn/faculty/xugq/index.htm
+Name:Wu NanNan
+Professional Title:Assistant Professor 
+Department:School of Cyber Security
+Main courses:None
+Tutor type:None
+Email:wunannan@act.buaa.edu.cn 
+Research field:Artificial Intelligence, Machine Learning
+Research Interests:Anomaly Structure DiscoveryPersonal 
+Website:http://cic.tju.edu.cn/faculty/wunannan/index.html
+Name:Wang WenJun
+Professional Title:Professor
+Department:network security School
+Main courses:Introduction to Geographic Information Systems
+Tutor type:PhD supervisor
+Email:wjwang@tju.edu.cn
+Research field:Social-Computing & Data-Driven Intelligence Safety
+Research Interests:Intelligent Risk Early Warning and Intelligence Analysis Theory Data and Atlas-Driven Social Control Theory Large Data Processing and Cloud Computing Platform SmartSafety,SmartPlanet,SmartCity.Personal 
+Website:http://www.smartsafety.cn/wiki/index.php/WangWenjun 
+Name:Sun YueHeng 
+Professional Title:Lecturer 
+Department:School of Cyber Security
+Main courses:Natural Language Processing and Information Retrieval
+Tutor type:None
+Email:yhs@tju.edu.cn 
+Research field:social computing, web data mining
+Research Interests:social network analysis, social media data processing and their applications in social managementPersonal 
+Website:None
+Name:Lu YanRong
+Professional Title:Lecturer 
+Department:Department of Network Security 
+Main courses:None
+Tutor type:None
+Email:yanronglu@tju.edu.cn 
+Research field:Information SecurityÂ·Applied CryptographyÂ·Privacy Protection
+Research Interests:Security ProtocolÂ·Block CipherPersonal 
+Website:None
+Name:Liu Jian
+Professional Title:Lecturer 
+Department:School of Cybersecurity
+Main courses:Discrete Mathematics; Information Security Technology; Cryptography and Network Security
+Tutor type:Master SupervisorEmail:jianliu@tju.edu.cn 
+Research field:Cryptography; Coding Theory
+Research Interests:Cryptographic Functions; Linear CodesPersonal 
+Website:None
+Name:li XueWei 
+Professional Title:associate professor 
+Department:School of Cybersecurity
+Main courses:Principles of Computer Organization
+Tutor type:Master's tutor.
+Email:lixuewei@tju.edu.cn 
+Research field:computer vision
+Research Interests:video analysis, image segmentation, image classification and so onPersonal 
+Website:http://cic.tju.edu.cn/faculty/lixuewei/index.html 
+Name:Li XiaoHong 
+Professional Title:Professor 
+Department:School of Cyberspace Security
+Main courses:Undergraduate:Data structure, Software engineering; 
+Master Degree Candidate:Unified Modeling Language; Highly trusted software engineering; 
+Doctoral candidate:Formalized method
+Tutor type:Doctoral supervisor
+Email:xiaohongli@tju.edu.cn 
+Research field:Security software engineering, Trusted software, information security
+Research Interests:Program symbol execution and logical verification, Software defect detection, Security requirements, Trusted software testing and evaluation, Network security, Mobile security, Internet of Things security, etc.Personal 
+Website:http://cic.tju.edu.cn/faculty/lxh/index.html 
+Name:Dai WeiDi
+Professional Title:Associate Professor
+Department:School of Cybersecurity 
+Main courses:Fundamentals of Computer
+Tutor type:Mmaster's supervisor
+Email:davidy@126.com 
+Research field:Data mining
+Research Interests:social network analysis big data technology and applicationPersonal 
+Website:http://cic.tju.edu.cn/faculty/dwd/index.htm
+Name:Zhu PengFei
+Professional Title:Associate Professor 
+Department:School of Artificial Intelligence
+Main courses:Image Understanding and Pattern Recognition Media Computing
+Tutor type:Master Supervisor
+Email:zhupengfei@tju.edu.cn 
+Research field:machine learningcomputer vision
+Research Interests:UAV Vision, Human and Machine Cooperation Learning, Metric Learning
+Personal Website:http://cic.tju.edu.cn/faculty/zhupengfei/index.html
+Name:Zhang Heng
+Professional Title:Associate Professor 
+Department:School of Artificial Intelligence
+Main courses:Compilers
+Tutor type:None
+Email:heng.zhang@tju.edu.cn 
+Research field:Artificial Intelligence
+Research Interests:Knowledge Representation and Reasoning, Declarative Programming, Knowledge Graphs
+Personal Website:https://www.researchgate.net/profile/heng_zhang8
+Name:Zhang ChangQing
+Professional Title:assistant professor 
+Department:School of Artificial Intelligence
+Main courses:Media Computing/Deep Learning
+Tutor type:master supervisor
+Email:zhangchangqing@tju.edu.cn
+Research field:Artificial Intelligence
+Research Interests:Machine Learning/Computer Vision
+Personal Website:http://cic.tju.edu.cn/faculty/zhangchangqing/index.html
+Name:Zhang GaoYan
+Professional Title:Associate Professor 
+Department:School of Artificial Intelligence
+Main courses:Database Application Technology, JAVA Programming, Frontiers in Cognitive Computation and Intelligent Information Processing
+Tutor type:Master supervisor
+Email:Intelligent Information Processing 
+Research field:Intelligent Information Processing 
+Research Interests:Medical Information Processing, Application of Complex Network and Machine Learning, Cognitive Function Analysis
+Personal Website:http://cic.tju.edu.cn/faculty/zhanggaoyan/index.html
+Name:Yu YongXin
+Professional Title:Assistant Professor
+Department:School of Artificial Intelligence
+Main courses:Digital CircuitsComputer Interface Technology C++ and Basis of Data Structure
+Tutor type:Master Supervisor 
+Email:yyx@tju.edu.cn 
+Research field:Computer Applications Technology
+Research Interests:Extracting and Recognizing of Image Semantic Based on Semantic Network and Artificial Neural Network 
+Personal Website:None
+Name:Yang YaJun
+Professional Title:Assistant Professor 
+Department:School of Artificial Intelligence
+Main courses:Algorithm Design and Analysis Database Principle Machine LearningDiscrete Mathematics 
+Tutor type:Master Supervisor
+Email:yjyang@tju.edu.cn 
+Research field:Data Management Machine Learning
+Research Interests:Graph Data Management and Graph Mining
+Personal Website:None
+Name:Yang Liu 
+Professional Title:Associate Professor 
+Department:School of Artificial Intelligence 
+Main courses:None
+Tutor type:Master student mentor 
+Email:yangliuyl@tju.edu.cn
+Research field:Machine learning, Data mining 
+Research Interests:Transfer learning, Multiview learning, Multilabel learning
+Personal Website:http://cic.tju.edu.cn/faculty/yangliu/index.html 
+Name:Xu JunHai 
+Professional Title:Assistant Professor
+Department:School of Artificial Intelligence 
+Main courses:Computer Foundation for Undergraduate; Programming and Design in C++
+Tutor type:Master supervisor
+Email:jhxu@tju.edu.cn 
+Research field:Artificial Intelligence; Information Science 
+Research Interests:Intelligent information processing; Machine learning; Speech signal processing; Medical image analysis and processing 
+Personal Website:http://cic.tju.edu.cn/faculty/xujunhai/index.html 
+Name:Wang QiLong
+Professional Title:Lecturer
+Department:College of Artificial Intelligence 
+Main courses:None
+Tutor type:None
+Email:qlwang@tju.edu.cn 
+Research field:Computer Vision, Deep Learning
+Research Interests:Video and Image Classification, Object Detection, Deep Probability Distribution Modeling 
+Personal Website:https://csqlwang.github.io/homepage/ 
+Name:Wang LongBiao
+Professional Title:Professor
+Department:School of Artificial Intelligence 
+Main courses:Element of information theory, Speech signal processing
+Tutor type:Doctoral supervisor/Master supervisor
+Email:longbiao_wang@tju.edu.cn 
+Research field:Speech signal processing 
+Research Interests:Speech recognition Speaker recognitionAcoustic signal processing Speech Synthesis Spoken language dialogue Natural language understanding Affective computing Artificial intelligence Machine learning
+Personal Website:http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html 
+Name:Shi Hong 
+Professional Title:Associate professor
+Department:School of Artificial Intelligence 
+Main courses:Signals and Systems
+Tutor type:Master degree supervisor
+Email:serena@tju.edu.cn 
+Research field:Machine Learning 
+Research Interests:Feature Selection; Rough Sets; Sparse Representation 
+Personal Website:http://cic.tju.edu.cn/faculty/shi/index.htm
+Name:Ren DongWei 
+Professional Title:Assistant Professor
+Department:School of Artificial Intelligence 
+Main courses:None
+Tutor type:Master Supervisor
+Email:csdren@tju.edu.cn 
+Research field:Computer Vision
+Research Interests:Computer Vision, Machine Learning 
+Personal Website:https://csdwren.github.io
+Name:Liu ZhiLei
+Professional Title:Assistant Professor
+Department:School of Artificial Intelligence 
+Main courses:Introduction to Computing PrinciplesComputer NetworksAffective Computing
+Tutor type:Supervisor of Master student
+Email:zhileiliu@tju.edu.cn 
+Research field:Artificial Intelligence
+Research Interests:Computer Vision, Pattern Recognition, Affective Computing 
+Personal Website:http://cic.tju.edu.cn/faculty/zhileiliu/index.html 
+Name:Hu QingHua
+Professional Title:Professor
+Department:School of Artificial Intelligence 
+Main courses:None
+Tutor type:doctoral supervisor
+Email:huqinghua@tju.edu.cn 
+Research field:Artificial Intelligence
+Research Interests:Machine Learning, Data Mining, Big Data 
+Personal Website:http://cic.tju.edu.cn/faculty/huqinghua/index.html 
+Name:Han YaHong
+Professional Title:Professor
+Department:School of Artificial Intelligence 
+Main courses:Media Computing (Undergraduate), Digital Media Technology (Undergraduate), Advanced Computer Vision (Graduate), Deep Learning (Graduate)
+Tutor type:Ph.D. / Master Supervisor
+Email:yahong@tju.edu.cn 
+Research field:Artificial Intelligence
+Research Interests:Multimedia Analysis, Machine Learning, Computer Vision 
+Personal Website:http://cic.tju.edu.cn/faculty/hanyahong/index.html
+Name:Gong XiuJun
+Professional Title:Associate professor
+Department:Computer Science 
+Main courses:Analysis and Design of Algorithms, Advanced Algorithms, Machine Learning Technology, Design of Intelligent Systems 
+Tutor type:Master supervisor
+Email:gongxj@tju.edu.cn 
+Research field:Intelligent Science, Bioinformatics, Integration and Mining of Medical Data
+Research Interests:Bayesian Learning Theory, Distributed Data Mining, Integration of Complex Systems. 
+Personal Website:http://cic.tju.edu.cn/faculty/gongxj/index.htm 
+Name:Kiyoshi Honda 
+Professional Title:professor
+Department:School of Artificial Intelligence 
+Main courses:Speech Signal Processing 
+Tutor type:doctoral supervisor
+Email:khonda@sannet.ne.jp 
+Research field:Speaking is a unique capacity of humans, which involves physiological and acoustic mechanisms of a human body across many stages of linguistic, neural sensorimotor, peripheral bio mechanic, and aero-acoustic systems. Studies of speech production aim at exploring those mechanisms by interdisciplinary approach combining phonetics, physiology, engineering, and medicine. Current Research Topics  § Visualization of Speech Production with Magnetic Resonance Imaging (MRI) MRI is the most powerful technique to observe the speech organs and the vocal tract. Various imaging techniques are available to use, including 2D or 3D static images, partial-3D motion images, and 2D real-time images during production of stationary speech gestures or running speech. The vocal tract (upper airway) can be extracted from MRI data to simulate vowel production by means of a linear electrical analog method or 3D acoustic simulation techniques.  § Modeling Speech Production Processes Basic mechanisms of speech production often need to be clarified by model-based simulations. In physiological processes, models of speech organs such as the tongue and lips are useful to understand the mechanisms, and in acoustic processes, models of the acoustic phenomena in the vocal tract help us understand the physical mechanisms. The neural processes also need modeling because of the complexity as a whole. § Developing Instrumentation Techniques for Speech Production Studies Technical difficulty in instrumentation has been the wall for examining human speech production. Multi-sensory instrumentation techniques are requested for this purpose using non-invasive experiments. Development of several new instruments has been conducted to build a new system for measuring speech production. 
+Research Interests:Speech Production 
+Personal Website:http://cic.tju.edu.cn/faculty/Honda/index.html
