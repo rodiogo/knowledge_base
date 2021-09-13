@@ -2,13 +2,6 @@
 
 """
 
-@author: SimmerChan
-
-@contact: hsl7698590@gmail.com
-
-@file: question2sparql.py
-
-@time: 2017/12/20 15:29
 
 @desc: 将自然语言转为SPARQL查询语句
 
