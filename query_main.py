@@ -1,18 +1,5 @@
 # encoding=utf-8
 
-"""
-
-@author: SimmerChan
-
-@contact: hsl7698590@gmail.com
-
-@file: query_main.py
-
-@time: 2017/12/20 15:29
-
-@desc:main函数，整合整个处理流程。
-
-"""
 import jena_sparql_endpoint
 import question2sparql
 
