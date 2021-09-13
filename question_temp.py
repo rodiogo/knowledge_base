@@ -1,15 +1,6 @@
 # encoding=utf-8
 
 """
-
-@author: SimmerChan
-
-@contact: hsl7698590@gmail.com
-
-@file: question_temp.py
-
-@time: 2017/12/20 15:30
-
 @desc:
 设置问题模板，为每个模板设置对应的SPARQL语句。demo提供如下模板：
 
