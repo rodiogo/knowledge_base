@@ -1,18 +1,4 @@
 # encoding=utf-8
-
-"""
-
-@author: SimmerChan
-
-@contact: hsl7698590@gmail.com
-
-@file: word_tagging.py
-
-@time: 2017/12/20 15:31
-
-@desc: 定义Word类的结构；定义Tagger类，实现自然语言转为Word对象的方法。
-
-"""
 import jieba
 import jieba.posseg as pseg
 
